@@ -1,7 +1,6 @@
 # Hi, I'm Yakup Kenger! 👋
 
-Industrial Engineering Student at **Boğaziçi University** (Expected 2027). 
-I am a growth-minded engineer leveraging **Data Analytics, AI Automation, and Performance Marketing** to drive strategic business decisions.
+Industrial Engineering Student at Boğaziçi University. Leveraging data analysis, AI automation, and marketing to drive strategic business decisions and growth.
 
 ---
 
