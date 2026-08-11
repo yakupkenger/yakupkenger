@@ -18,7 +18,7 @@
 
 ## About Me
 
-I'm a 3rd-year Industrial Engineering student at Boğaziçi University with a strong focus on **data-driven decision making** — from machine learning and time series forecasting to marketing analytics and campaign optimization. I enjoy turning messy real-world data into clear, actionable insights.
+I'm a 4th-year Industrial Engineering student at Boğaziçi University with a strong focus on **data-driven decision making** — from machine learning and time series forecasting to marketing analytics and campaign optimization. I enjoy turning messy real-world data into clear, actionable insights.
 
 - 🎯 Currently studying: Statistical Forecasting, Data Mining, Simulation Modeling, Machine Learning  
 - 🤖 Most recently: Built AI-assisted content automation workflows @ Hediyesepeti  
